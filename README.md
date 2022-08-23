@@ -1,41 +1,75 @@
-# 基于SSM的租房管理系统2
+# 基于SSM的租房管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**租房2** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的租房管理系统2拥有管理员和用户两个角色：
 
 管理员：用户管理、房源管理、留言管理、发布房源等
 
 用户：查看、按照条件搜索房源、发布房源、查看房源详细信息、查看我的租房信息等
 
-#### 软件架构
-软件架构说明
+![项目结构功能图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031143.png)
 
 
-#### 安装教程
+## 2、项目技术
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+后端框架：SSM（Spring、SpringMVC、Mybatis）
 
-#### 使用说明
+前端技术：Layui、jsp、css、JavaScript、JQuery
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 3、开发环境
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- JAVA版本：JDK1.8
+- IDE类型：IDEA、Eclipse都可运行
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven项目:否
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 特技
+## 4、功能介绍
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 4.1 登录
+
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030958.jpg)
+
+### 4.2 首页模块
+
+![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030441.jpg)
+
+![房源详细信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030502.jpg)
+
+### 4.3 管理员模块
+
+![管理员-所有房源信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030601.jpg)
+
+![管理员-用户信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030255.jpg)
+
+![管理员-留言信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030897.jpg)
+
+![管理员-发布房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030436.jpg)
+
+### 4.4用户 模块
+
+![用户-我的租房信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031123.jpg)
+
+![用户-发布的房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031694.jpg)
+
+![用户-发布房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031433.jpg)
+
+![用户-修改房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031153.jpg)
+
+## 5、获取方式
+
+扫描下方，回复关键词  ：**租房2** ，获取完整版源码
+
+
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
