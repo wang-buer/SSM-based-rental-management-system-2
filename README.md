@@ -1,10 +1,4 @@
-# 基于SSM的租房管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**租房2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的租房管理系统2
 
 ## 1、项目介绍
 
@@ -14,7 +8,7 @@
 
 用户：查看、按照条件搜索房源、发布房源、查看房源详细信息、查看我的租房信息等
 
-![项目结构功能图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031143.png)
+![项目结构功能图](https://www.codeshop.fun/Typora-Images/202207190031143.png)
 
 
 ## 2、项目技术
@@ -37,39 +31,36 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030958.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207190030958.jpg)
 
 ### 4.2 首页模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030441.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202207190030441.jpg)
 
-![房源详细信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030502.jpg)
+![房源详细信息](https://www.codeshop.fun/Typora-Images/202207190030502.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-所有房源信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030601.jpg)
+![管理员-所有房源信息](https://www.codeshop.fun/Typora-Images/202207190030601.jpg)
 
-![管理员-用户信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030255.jpg)
+![管理员-用户信息管理](https://www.codeshop.fun/Typora-Images/202207190030255.jpg)
 
-![管理员-留言信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030897.jpg)
+![管理员-留言信息管理](https://www.codeshop.fun/Typora-Images/202207190030897.jpg)
 
-![管理员-发布房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190030436.jpg)
+![管理员-发布房源](https://www.codeshop.fun/Typora-Images/202207190030436.jpg)
 
 ### 4.4用户 模块
 
-![用户-我的租房信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031123.jpg)
+![用户-我的租房信息](https://www.codeshop.fun/Typora-Images/202207190031123.jpg)
 
-![用户-发布的房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031694.jpg)
+![用户-发布的房源](https://www.codeshop.fun/Typora-Images/202207190031694.jpg)
 
-![用户-发布房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031433.jpg)
+![用户-发布房源](https://www.codeshop.fun/Typora-Images/202207190031433.jpg)
 
-![用户-修改房源](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207190031153.jpg)
+![用户-修改房源](https://www.codeshop.fun/Typora-Images/202207190031153.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ：**租房2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**租房**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
